@@ -120,7 +120,3 @@ This project is a good starter app for:
 - Add calendar-based scheduling
 - Persist uploaded notes and profile data
 - Improve localization using ARB files
-
-## License
-
-No license has been added yet. Add a license file if you want to make usage terms explicit.
