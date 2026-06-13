@@ -1,4 +1,4 @@
-# Smart Student Organizer
+ # Smart Student Organizer
 
 A Flutter-based student productivity app focused on simple academic planning. The app includes a student login screen, dashboard overview, task manager, profile editing, notes upload flow, dark mode, and basic English/Hindi language switching.
 
@@ -114,9 +114,6 @@ This project is a good starter app for:
 ## Future Improvements
 
 - Add local database support with Hive or SQLite
-- Add real authentication
-- Build a working study timer
-- Add task completion tracking
 - Add calendar-based scheduling
-- Persist uploaded notes and profile data
-- Improve localization using ARB files
+ - Persist uploaded notes and profile data
+ - Improve localization using ARB files
